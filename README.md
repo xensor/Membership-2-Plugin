@@ -1,5 +1,4 @@
-### Xensor's Maintenance ###
-
+# Xensor's Maintenance #
 Contributors: Xensor, ChuChuYokai
 
 Donate link: http://www.leroymcqy.cf
@@ -36,13 +35,29 @@ This section describes how to install the plugin and get it working.
 
 ## Frequently Asked Questions ##
 
-*What does this do?*
+# What does this do? #
 
 This allows admin(s) to set up ban pages and maintenance pages and then set the `page id` into the fields to be redirected to. This isn't just a redirect on login, it actually redirects them during the whole visit. 
 
-*What is required?*
+# What is required? #
 
 Membership 2 from WMPUDEV. (I have not tested it with the free version.)
+
+# Settings #
+
+To set up the options for the plugin, you would head over to `Dashboard -> Settings -> Maintenance`. From here you will see a form that gives you options to change the ids of the following: `ban, guest and default`, you will also see redirect URLs for `maintenance` and `banned`. You can also change the pages that are for the member(s) to be redirected to `ban page id` and `maintenance page id`.
+
+The maintenance and ban page id are the ids you get from editing the post. Example: wp-admin/post.php?post=`29749`&action=edit.
+
+That id after `post=` is the number you need for the page id. 
+
+For the membership id, you can get that from the membership 2 area. You can do this 2 ways, one is by the shortcode option. It will give you the id of the membership or you can edit the membership and get it from the URL.
+
+I am gonna show you how to get it from a shortcode: 
+
+on the membership 2 page, you will see a column with 'shortcode', you click the show link to get the shortcode. `[ms-protect-content id="29578"][/ms-protect-content]` this is the shortcode you will be looking for. 
+
+
 
 ## Screenshots ##
 
@@ -66,7 +81,7 @@ Membership 2 from WMPUDEV. (I have not tested it with the free version.)
 ## Upgrade Notice ##
 
 # 1.0.1 #
-This will show the proper labels so you know which membership is needed to show the maintenance pages to. If you fail to update the plugin, you acknowledge that you are using a outdated plugin that does not show the proper labels.
+This will show the proper labels so you know which membership is needed to show the maintenance pages too. If you fail to update the plugin, you acknowledge that you are using an outdated plugin that does not show the proper labels.
 
 # 1.0 #
 Beta, Should not be used on a live site. This plugin has been created. We will post updates when we update the plugin.

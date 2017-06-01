@@ -1,5 +1,6 @@
 # Membership-2-Plugin
-** Plugin Name **
+* Plugin Name *
+
 Contributors: (this should be a list of wordpress.org userid's)
 Donate link: http://www.leroymcqy.cf
 Tags: membership 2 pro, membership, maintenance, ban

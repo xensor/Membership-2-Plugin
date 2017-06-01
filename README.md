@@ -1,4 +1,5 @@
 ### Xensor's Maintenance ###
+
 Contributors: Xensor, ChuChuYokai
 
 Donate link: http://www.leroymcqy.cf
@@ -52,21 +53,21 @@ Membership 2 from WMPUDEV. (I have not tested it with the free version.)
 ![maintenance admin panel](https://box.everhelper.me/attachment/944331/ad10e51d-6828-4832-bf72-e493003daaeb/817279-SFErt1hKuMQDNbC5/screen.png 'maintenance admin panel')
 ## Changelog ##
 
+# 1.0.1 #
+1. Fixed labels on the admin panel from `staff` to `Default` and `gym leader` to `Guest id`.
+1. Added the ability to uninstall the plugin.
+
 # 1.0 #
 * Initial start of the plugin path.
 * Set up the code to allow admins to edit details for the plugin
 * Set up redirects to kick ban members to a set page and also redirect non-staff to a maintenance page when maintenance is enabled.
 
-# 1.0.1 #
-1. Fixed labels on the admin panel from `staff` to `Default` and `gym leader` to `Guest id`.
-1. Added the ability to uninstall the plugin.
 
 ## Upgrade Notice ##
 
-# 1.0 #
-1. Beta, Should not be used on a live site. This plugin has been created. We will post updates when we update the plugin.
-
 # 1.0.1 #
-1. Fixed labels on the admin panel from `staff` to `Default` and `gym leader` to `Guest id`.
-1. Added the ability to uninstall the plugin.
-1. Update Immediately if you have not done so.
+This will show the proper labels so you know which membership is needed to show the maintenance pages to. If you fail to update the plugin, you acknowledge that you are using a outdated plugin that does not show the proper labels.
+
+# 1.0 #
+Beta, Should not be used on a live site. This plugin has been created. We will post updates when we update the plugin.
+

@@ -47,7 +47,9 @@ Membership 2 from WMPUDEV. (I have not tested it with the free version.)
 
 ## Screenshots ##
 
-1. ![Maintenance Page](http://www.pixelmonmemories.ml/wp-content/uploads/2017/06/screenshot-www.pixelmonmemories.ml-2017-06-01-07-43-35.png)
+![Maintenance Page](http://www.pixelmonmemories.ml/wp-content/uploads/2017/06/screenshot-www.pixelmonmemories.ml-2017-06-01-07-43-35.png 'Maintenance Page')
+
+![Banned Page](http://www.pixelmonmemories.ml/wp-content/uploads/2017/06/banned.png 'Banned Page')
 
 ## Changelog ##
 

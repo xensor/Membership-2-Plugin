@@ -1,11 +1,18 @@
 ### Xensor's Maintenance ###
 Contributors: (this should be a list of wordpress.org userid's)
+
 Donate link: http://www.leroymcqy.cf
+
 Tags: membership 2 pro, membership, maintenance, ban
+
 Requires at least: 4.7.5
+
 Tested up to: 4.7.5
+
 Stable tag: 4.7.5
+
 License: GPLv2 or later
+
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 This add-on allows you to set up a page for banned groups and also a maintenance page based on staff levels. You can enter the id(s) in the admin panel so it's all easy to do from a page. 
